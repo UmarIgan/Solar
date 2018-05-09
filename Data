@@ -59,4 +59,3 @@
             'Kocaeli':2373, 'Konya':2898, 'Kütahya':2559, 'Malatya':2873, 'Manisa':2840, 'Mardin':3033, 'Mersin':3015, 'Muğla':3040, 'Muş':2686, 'Nevşehir':2834, 'Niğde':2930,
             'Ordu':2263, 'Osmaniye':2954, 'Rize':2124, 'Sakarya':2358, 'Samsun':2314, 'Siirt':2828, 'Sinop':2347, 'Sivas':2653, 'Şanlı Urfa':3033, 'Şırnak':2975, 'Tekirdağ':2606,
             'Tokat':2464, 'Trabzon':2132, 'Tunceli':2716, 'Uşak':2789, 'Van':3070, 'Yalova':2424, 'Yozgat':2683, 'Zonguldak ':2380}
-def city_energy():
