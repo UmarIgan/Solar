@@ -238,7 +238,7 @@ def kazanç():#enerji kazancı
     m=int(blank11.get())
     k=int(ent8.get())
     l=int(ent9.get())
-    K=int(((l/100)*k*m*n)/24)
+    K=int((l/100)*k*m*n)
     M=int((K/1000)*0.44)
     blank12.insert(0, K)
     blank13.insert(0, M)
